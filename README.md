@@ -21,6 +21,8 @@ Cette branche contient :
 - Des **captures d'écran** des résultats ou de l'exécution dans un terminal ou un IDE
 - D'éventuels commentaires, astuces ou alternatives de résolution
 
+- homeworks, links, exercises,...
+
 ---
 
 <table> <tr> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Haskell-Logo.svg" width="50"/><br/>Haskell</td> <td align="center"><img src="https://cryptologos.cc/logos/cardano-ada-logo.png?v=032" width="50"/><br/>Cardano</td> <td align="center"><img src="https://plutus-community.readthedocs.io/en/latest/_images/plutus-logo.svg" width="50"/><br/>Plutus</td> <td align="center"><img src="https://seeklogo.com/images/S/solidity-logo-9ABC69B6A9-seeklogo.com.png" width="40"/><br/>Solidity</td> <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="40"/><br/>Web3</td> </tr> </table>
